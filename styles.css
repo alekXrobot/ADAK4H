@@ -12,7 +12,7 @@
 }
 
 .brand img {
-    width: 100px;      /* ubah 40px jika masih kebesaran */
+    width: 100px;      
     height: 100px;
     object-fit: contain;
 }
