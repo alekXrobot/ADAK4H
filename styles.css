@@ -1,4 +1,27 @@
 /* Place your CSS styles in this file */
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.brand img {
+    width: 100px;      /* ubah 40px jika masih kebesaran */
+    height: 100px;
+    object-fit: contain;
+}
+
+.title h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
 
 h1 {
     text-align: left;
