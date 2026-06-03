@@ -7,9 +7,8 @@
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-}
 
-.brand {
+    .brand {
     display: flex;
     align-items: center;
     gap: 12px;
@@ -20,9 +19,8 @@
     height: 150px;
     object-fit: contain;
     margin-top: -20px;
-}
 
-.brand h2 {
+    .brand h2 {
     margin: 0;
     color: navy;
     font-size: 2rem;
@@ -39,7 +37,7 @@
     padding: 0;
 }
 
-.nav-links a {
+    .nav-links a {
     text-decoration: none;
     color: #2d2d5c;
     font-size: 1.1rem;
@@ -51,14 +49,13 @@
     color: #ff5a36;
 }
 
-.btn-product {
+    .btn-product {
     background: navy;
     color: white !important;
     padding: 12px 24px;
     border-radius: 15px;
     font-weight: 600;
 }
-
 
 h1 {
     text-align: center;
