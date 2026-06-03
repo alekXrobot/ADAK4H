@@ -36,8 +36,9 @@ h1 {
                             border-radius: 12px;
                             }
 
-                            .p1 {text-align: center;
+                            .p1 {text-align: left;
                                 color: white;
+                                 font-size:12;
                                     }
 
                                      ul {list-style-type: calc(); 
