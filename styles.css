@@ -21,11 +21,12 @@
     width: 55px;
     height: 55px;
     object-fit: contain;
+    margin-top: -20px;
 }
 
 .brand h2 {
     margin: 0;
-    color: #ff5a36;
+    color: navy;
     font-size: 2rem;
     font-weight: 800;
     font-style: italic;
@@ -42,7 +43,7 @@
 
 .nav-links a {
     text-decoration: none;
-    color: #2d2d5c;
+    color: navy;
     font-size: 1.1rem;
     font-weight: 500;
     transition: 0.3s;
@@ -53,7 +54,7 @@
 }
 
 .btn-product {
-    background: #d84f2d;
+    background: navy;
     color: white !important;
     padding: 12px 24px;
     border-radius: 15px;
@@ -71,8 +72,8 @@ h1 {
                      
                             }
 
-                            .p2 {text-align: center;
-                                color:blue;
+                            .p1 {text-align: left;
+                                color:white;
                                     }
 
                                      ul {list-style-type: calc(); 
