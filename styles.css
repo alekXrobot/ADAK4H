@@ -8,12 +8,12 @@
 .brand {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
 }
 
 .brand img {
-    width: 100px;      
-    height: 100px;
+    width: 600px;      
+    height: 600px;
     object-fit: contain;
 }
 
