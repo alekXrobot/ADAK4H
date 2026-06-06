@@ -176,4 +176,6 @@ body{
     .bottom-cards{
         grid-template-columns:1fr;
     }
+    h1 {text-align:center:
+       }
 }
