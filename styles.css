@@ -4,13 +4,17 @@
     box-sizing:border-box;
     font-family:Arial, sans-serif;
 }
-
+.header {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 15px;
+}
 body{
     background:#041237;
     color:white;
 }
 
-/* NAVBAR */
 
 .navbar{
     width:90%;
@@ -30,7 +34,7 @@ body{
     border-radius:25px;
 }
 
-/* LOGO */
+
 
 .logo-area{
     display:flex;
@@ -48,7 +52,7 @@ body{
     font-size:3rem;
 }
 
-/* MENU */
+
 
 .menu{
     display:flex;
@@ -68,7 +72,7 @@ body{
     background:#2563eb;
 }
 
-/* HERO */
+
 
 .hero{
     text-align:center;
@@ -86,7 +90,7 @@ body{
     margin:auto;
 }
 
-/* CARD UMUM */
+
 
 .card{
     background:rgba(255,255,255,0.08);
@@ -104,7 +108,7 @@ body{
     line-height:1.8;
 }
 
-/* 2 CARD TENGAH */
+
 
 .main-cards{
     width:90%;
@@ -121,7 +125,7 @@ body{
     min-height:250px;
 }
 
-/* 4 CARD BAWAH */
+
 
 .bottom-cards{
     width:90%;
@@ -141,7 +145,7 @@ body{
     border-radius:15px;
 }
 
-/* RESPONSIVE HP */
+
 
 @media(max-width:768px){
 
