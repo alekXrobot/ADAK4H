@@ -56,6 +56,7 @@
 }
 
 .nav-links a {
+    display:flex; 
     text-decoration: none;
     color: navy;
     font-size: 1.1rem;
